@@ -1,0 +1,9 @@
+fundo = fundo2.png
+porta = porta2.png
+numPortas = 6
+pontos = 60
+numVisitantes = 4
+visitante_01 = depositante,mineiro,1,0,1000,3000
+visitante_02 = depositante,dama,1,0,1000,3000
+visitante_03 = assaltante,pistoleiro1,2,0,0,2000,3000
+visitante_04 = assaltante,pistoleiro1,2,1000,2000,2000,3000

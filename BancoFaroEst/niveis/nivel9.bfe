@@ -1,0 +1,52 @@
+fundo = fundo.jpg
+porta = porta.png
+numPortas = 9
+pontos = 800
+numVisitantes = 41
+visitante_01 = depositante,mineiro,7,0,800,2000
+visitante_02 = depositante,mineiro,7,1,1000,2300
+visitante_03 = depositante,mineiro,7,2,1000,2300
+visitante_04 = depositante,pistoleiro1,7,0,800,2000
+visitante_05 = depositante,pistoleiro1,7,0,800,2000
+visitante_06 = depositante,pistoleiro2,7,0,800,2000
+visitante_07 = depositante,pistoleiro2,7,0,800,2000
+visitante_08 = depositante,magico,7,1,1000,3000
+visitante_09 = depositante,magico,7,2,1000,3200
+visitante_10 = depositante,dama,7,0,800,2000
+visitante_11 = depositante,dama,7,1,800,2300
+visitante_12 = depositante,dama,7,2,800,2300
+
+visitante_11 = assaltante,pistoleiro1,8,0,0,800,1800
+visitante_12 = assaltante,pistoleiro1,8,0,0,800,1800
+visitante_13 = assaltante,pistoleiro1,8,800,1600,800,1800
+visitante_14 = assaltante,pistoleiro2,10,800,1600,700,1500
+visitante_15 = assaltante,pistoleiro2,10,800,1600,700,1500
+visitante_16 = assaltante,pistoleiro2,10,800,1600,700,1500
+visitante_17 = assaltante,magico,8,800,1600,1000,2000
+visitante_18 = assaltante,magico,8,800,1600,1000,2000
+visitante_19 = assaltante,magico,8,800,1600,1000,2000
+
+visitante_20 = troca,mineiro,pistoleiro1,10,1000,2000,600,1500
+visitante_21 = troca,mineiro,pistoleiro1,10,1000,2000,600,1500
+visitante_22 = troca,dama,pistoleiro1,10,1000,2000,600,1500
+visitante_23 = troca,dama,pistoleiro1,10,1000,2000,600,1500
+visitante_24 = troca,mineiro,pistoleiro2,12,1000,2000,500,1000
+visitante_25 = troca,mineiro,pistoleiro2,12,1000,2000,500,1000
+visitante_26 = troca,dama,pistoleiro2,12,1000,2000,500,1000
+visitante_27 = troca,dama,pistoleiro2,12,1000,2000,500,1000
+
+visitante_28 = aleatorio,peregrino,4,4,2500,3500
+visitante_29 = aleatorio,peregrino,4,4,2500,3500
+visitante_30 = aleatorio,peregrino,4,2,2500,3500
+visitante_31 = aleatorio,peregrino,4,2,2500,3500
+visitante_32 = aleatorio,magico,4,3,2200,3500
+visitante_33 = aleatorio,magico,4,3,2200,3500
+visitante_34 = aleatorio,magico,4,2,2200,3300
+visitante_35 = aleatorio,magico,4,2,2200,3300
+
+visitante_36 = insatisfeito,mineiro,5,0,1500,3500
+visitante_37 = insatisfeito,mineiro,4,1,1800,3500
+visitante_38 = insatisfeito,mineiro,4,2,1800,3500
+visitante_39 = insatisfeito,dama,5,0,1500,3500
+visitante_40 = insatisfeito,dama,4,1,1800,3500
+visitante_41 = insatisfeito,dama,4,2,1800,3500

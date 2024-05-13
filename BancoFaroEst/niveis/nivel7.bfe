@@ -1,0 +1,38 @@
+fundo = fundo.jpg
+porta = porta.png
+numPortas = 9
+pontos = 300
+numVisitantes = 29
+visitante_01 = depositante,mineiro,5,0,1000,2500
+visitante_02 = depositante,mineiro,5,1,1000,2500
+visitante_03 = depositante,pistoleiro1,5,0,1000,3000
+visitante_04 = depositante,pistoleiro1,5,0,1000,3000
+visitante_05 = depositante,magico,5,0,1000,2500
+visitante_06 = depositante,magico,5,1,1000,3000
+visitante_07 = depositante,magico,5,3,1200,3200
+visitante_08 = depositante,dama,5,0,1000,2500
+visitante_09 = depositante,dama,5,1,1000,2500
+visitante_10 = depositante,dama,5,2,1200,3000
+
+visitante_11 = assaltante,pistoleiro1,8,0,0,1000,2000
+visitante_12 = assaltante,pistoleiro1,8,0,0,1000,2000
+visitante_13 = assaltante,pistoleiro1,8,1000,2000,1000,2000
+visitante_14 = assaltante,pistoleiro1,8,1000,2000,1000,2000
+visitante_15 = assaltante,magico,8,1000,2000,1000,2000
+
+visitante_16 = troca,mineiro,pistoleiro1,10,1000,2000,800,1800
+visitante_17 = troca,mineiro,pistoleiro1,10,1000,2000,800,1800
+visitante_18 = troca,dama,pistoleiro1,10,1000,2000,800,1800
+visitante_19 = troca,dama,pistoleiro1,10,1000,2000,800,1800
+
+visitante_20 = aleatorio,peregrino,4,4,2500,4000
+visitante_21 = aleatorio,peregrino,4,4,2500,4000
+visitante_22 = aleatorio,magico,4,3,2200,3800
+visitante_23 = aleatorio,magico,4,3,2200,3800
+
+visitante_24 = insatisfeito,mineiro,5,0,2000,4000
+visitante_25 = insatisfeito,mineiro,4,1,2000,4000
+visitante_26 = insatisfeito,mineiro,4,2,2000,4000
+visitante_27 = insatisfeito,dama,5,0,2000,4000
+visitante_28 = insatisfeito,dama,4,1,2000,4000
+visitante_29 = insatisfeito,dama,4,2,2000,4000

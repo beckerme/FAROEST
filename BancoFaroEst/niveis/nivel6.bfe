@@ -1,0 +1,26 @@
+fundo = fundo.jpg
+porta = porta.png
+numPortas = 9
+pontos = 200
+numVisitantes = 17
+visitante_01 = depositante,mineiro,4,0,1000,3000
+visitante_02 = depositante,mineiro,4,1,1000,3000
+visitante_03 = depositante,mineiro,4,2,1000,3000
+visitante_04 = depositante,dama,4,0,1000,3000
+visitante_05 = depositante,dama,4,2,1000,3000
+visitante_06 = depositante,magico,4,1,1000,3000
+
+visitante_07 = assaltante,pistoleiro1,8,0,0,1500,2500
+visitante_08 = assaltante,pistoleiro1,8,1000,3000,2000,3000
+visitante_09 = assaltante,pistoleiro1,8,1000,3000,2000,3000
+
+visitante_10 = troca,mineiro,pistoleiro1,8,1500,3000,1500,2500
+visitante_11 = troca,mineiro,pistoleiro1,8,1500,3000,1500,2500
+visitante_12 = troca,dama,pistoleiro1,8,1500,3000,1500,2500
+
+visitante_13 = aleatorio,peregrino,4,4,3000,5000
+visitante_14 = aleatorio,peregrino,4,4,3000,5000
+
+visitante_15 = insatisfeito,mineiro,3,2,2000,4000
+visitante_16 = insatisfeito,mineiro,3,0,2000,4000
+visitante_17 = insatisfeito,dama,3,0,2000,4000
